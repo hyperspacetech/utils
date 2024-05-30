@@ -2,7 +2,7 @@
 
 **#Git**
 
-winget install -e --id install Git.Git
+winget install -e --id Git.Git
 
 **#VSCode:**
 
@@ -38,7 +38,7 @@ winget install -e --id Microsoft.VCRedist.2015+.x64
 
 **#Bulk**
 
-winget install -e --id install Git.Git
+winget install -e --id Git.Git
 
 winget install -e --id Microsoft.VisualStudioCode
 
