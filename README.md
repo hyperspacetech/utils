@@ -1,5 +1,9 @@
 # utils
 
+#Git
+
+winget install -e --id install Git.Git
+
 #VSCode:
 
 winget install -e --id Microsoft.VisualStudioCode
@@ -24,8 +28,17 @@ winget install -e --id Microsoft.Azure.FunctionsCoreTools
 
 winget install -e --id Microsoft.AzureCLI
 
+#Microsoft Visual C++ 2015-2022 Redistributable (x86)
+
+winget install -e --id Microsoft.VCRedist.2015+.x86
+
+#Microsoft Visual C++ 2015-2022 Redistributable (x64)
+
+winget install -e --id Microsoft.VCRedist.2015+.x64
 
 #Bulk
+
+winget install -e --id install Git.Git
 
 winget install -e --id Microsoft.VisualStudioCode
 
