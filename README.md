@@ -1,42 +1,42 @@
 # utils
 
-#Git
+**#Git**
 
 winget install -e --id install Git.Git
 
-#VSCode:
+**#VSCode:**
 
 winget install -e --id Microsoft.VisualStudioCode
 
-#Docker
+**#Docker**
 
 winget install -e --id Docker.DockerDesktop
 
-#GitHub Desktop
+**#GitHub Desktop**
 
 winget install -e --id GitHub.GitHubDesktop
 
-#.NET 8 Preview
+**#.NET 8 Preview**
 
 winget install -e --id Microsoft.DotNet.SDK.Preview
 
-#Azure Functions Core Tools
+**#Azure Functions Core Tools**
 
 winget install -e --id Microsoft.Azure.FunctionsCoreTools
 
-#Azure CLI
+**#Azure CLI**
 
 winget install -e --id Microsoft.AzureCLI
 
-#Microsoft Visual C++ 2015-2022 Redistributable (x86)
+**#Microsoft Visual C++ 2015-2022 Redistributable (x86)**
 
 winget install -e --id Microsoft.VCRedist.2015+.x86
 
-#Microsoft Visual C++ 2015-2022 Redistributable (x64)
+**#Microsoft Visual C++ 2015-2022 Redistributable (x64)**
 
 winget install -e --id Microsoft.VCRedist.2015+.x64
 
-#Bulk
+**#Bulk**
 
 winget install -e --id install Git.Git
 
