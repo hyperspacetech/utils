@@ -16,4 +16,4 @@ winget install -e --id Microsoft.DotNet.SDK.Preview
 winget install -e --id Microsoft.Azure.FunctionsCoreTools
 
 #Azure CLI
-winget install -e --id Microsoft.Azure.FunctionsCoreTools
+winget install -e --id Microsoft.AzureCLI
