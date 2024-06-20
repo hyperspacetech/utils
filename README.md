@@ -28,6 +28,10 @@ winget install -e --id Microsoft.Azure.FunctionsCoreTools
 
 winget install -e --id Microsoft.AzureCLI
 
+**#Azure Developer CLI**
+
+winget install -e --id Microsoft.Azd
+
 **#Microsoft Visual C++ 2015-2022 Redistributable (x86)**
 
 winget install -e --id Microsoft.VCRedist.2015+.x86
@@ -35,19 +39,3 @@ winget install -e --id Microsoft.VCRedist.2015+.x86
 **#Microsoft Visual C++ 2015-2022 Redistributable (x64)**
 
 winget install -e --id Microsoft.VCRedist.2015+.x64
-
-**#Bulk**
-
-winget install -e --id Git.Git
-
-winget install -e --id Microsoft.VisualStudioCode
-
-winget install -e --id Docker.DockerDesktop
-
-winget install -e --id GitHub.GitHubDesktop
-
-winget install -e --id Microsoft.DotNet.SDK.Preview
-
-winget install -e --id Microsoft.Azure.FunctionsCoreTools
-
-winget install -e --id Microsoft.AzureCLI
