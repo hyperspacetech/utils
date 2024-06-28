@@ -44,10 +44,10 @@ winget install -e --id Microsoft.VCRedist.2015+.x86
 
 winget install -e --id Microsoft.VCRedist.2015+.x64
 
-#**NVM
+#**NVM**
 
 winget install CoreyButler.NVMforWindows
 
-#**Node Latest
+#**Node Latest**
 
 nvm install latest
