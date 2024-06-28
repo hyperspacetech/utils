@@ -24,7 +24,8 @@ winget install -e --id Microsoft.DotNet.SDK.Preview
 
 winget install -e --id Microsoft.Azure.FunctionsCoreTools
 
-#**Update .NET Workloads
+#**Update .NET Workloads**
+
 dotnet workload update
 
 #**Azure CLI**
