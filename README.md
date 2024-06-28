@@ -16,7 +16,7 @@ winget install -e --id Docker.DockerDesktop
 
 winget install -e --id GitHub.GitHubDesktop
 
-#**.NET 8 Preview**
+#**Microsoft .NET SDK 9.0 Preview**
 
 winget install -e --id Microsoft.DotNet.SDK.Preview
 
